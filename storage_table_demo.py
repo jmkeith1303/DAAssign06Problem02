@@ -138,7 +138,7 @@ print('Created entry for Dunkin Donuts Dark Roast...\n')
 
 coffee = Entity()
 coffee.PartitionKey = 'coffeeshop'
-coffee.RowKey = '006'
+coffee.RowKey = '007'
 coffee.brand = 'Einsteins'
 coffee.flavor = 'Hazelnut'
 coffee.cupsize = 'Large'
